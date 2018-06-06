@@ -1,6 +1,7 @@
 # geneticAlgorithm
 A genetic algorithm resolving 3 different functions. Parameters for functions may be commented out, function 3 is currently set.
 The functions are:
+
 1 - 	f(x) = x2
 
 2 -   f(x,y) = 0.26.( x2 + y2 ) – 0.48.x.y
